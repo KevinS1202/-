@@ -1,0 +1,47 @@
+\babel@toc {russian}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {russian}{}\relax 
+\contentsline {section}{ОБОЗНАЧЕНИЯ И СОКРАЩЕНИЯ}{7}{Doc-Start}%
+\contentsline {section}{ВВЕДЕНИЕ}{8}{Doc-Start}%
+\contentsline {section}{\numberline {1}Анализ предметной области}{10}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Характеристики компании и пользователей}{10}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}HTML-программирование}{10}{subsection.1.2}%
+\contentsline {paragraph}{\numberline {1.2.0.1}Преимущества использования HTML}{11}{paragraph.1.2.0.1}%
+\contentsline {subsection}{\numberline {1.3}Преимущества веб-сайта в клинике}{13}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Требования пользователей к продукту веб-приложения}{14}{subsection.1.4}%
+\contentsline {paragraph}{\numberline {1.4.0.1}Исследование предметной области}{15}{paragraph.1.4.0.1}%
+\contentsline {section}{\numberline {2}Техническое задание}{16}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основание для разработки}{16}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Цель и назначение разработки}{16}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Требования пользователя к интерфейсу web-сайта}{18}{subsection.2.3}%
+\contentsline {paragraph}{\numberline {2.3.0.1}Требования к обработке продукции}{20}{paragraph.2.3.0.1}%
+\contentsline {subsection}{\numberline {2.4}Моделирование вариантов использования}{21}{subsection.2.4}%
+\contentsline {paragraph}{\numberline {2.4.0.1}Спецификация и функции программы}{22}{paragraph.2.4.0.1}%
+\contentsline {subsection}{\numberline {2.5}Требования к оформлению документации}{23}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Требования к составу и параметрам технических средств}{23}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Требования к информации и совместимости веб-приложения}{24}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Стадии и этапы разработки}{24}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Порядок контроля и приемки}{26}{subsection.2.9}%
+\contentsline {section}{\numberline {3}Технический проект}{27}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Общая характеристика организации решения задачи}{27}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Обоснование выбора технологии проектирования}{28}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Описание используемых технологий и языков программирования}{28}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Язык программирования PHP}{29}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Язык программирования CSS}{31}{subsubsection.3.2.3}%
+\contentsline {paragraph}{\numberline {3.2.3.1}Преимущества использования языка программирования CSS}{32}{paragraph.3.2.3.1}%
+\contentsline {subsubsection}{\numberline {3.2.4}Система управления MySQL}{33}{subsubsection.3.2.4}%
+\contentsline {paragraph}{\numberline {3.2.4.1}Преимущества использования MySQL}{33}{paragraph.3.2.4.1}%
+\contentsline {paragraph}{\numberline {3.2.4.2}Недостатки языка HTML}{34}{paragraph.3.2.4.2}%
+\contentsline {paragraph}{\numberline {3.2.4.3}Недостатки языка CSS}{35}{paragraph.3.2.4.3}%
+\contentsline {paragraph}{\numberline {3.2.4.4}Недостатками MySQL}{35}{paragraph.3.2.4.4}%
+\contentsline {subsection}{\numberline {3.3}Диаграмма компонентов и обмен данными между пользователями и формами}{36}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Диаграмма размещения}{39}{subsection.3.4}%
+\contentsline {paragraph}{\numberline {3.4.0.1}Диаграмма таблицы MySQL}{39}{paragraph.3.4.0.1}%
+\contentsline {subsection}{\numberline {3.5}Содержание информационных блоков. Основные сущности}{40}{subsection.3.5}%
+\contentsline {paragraph}{\numberline {3.5.0.1}Описание и разработка кода в таблицах для клинической лаборатории}{42}{paragraph.3.5.0.1}%
+\contentsline {subsection}{\numberline {3.6}Словарь тематического охвата продуктов веб-приложений}{43}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Рабочий проект}{45}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Модули, используемые при разработке сайта}{45}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Тестирование разработанного web-сайта}{49}{subsection.4.2}%
+\contentsline {section}{ЗАКЛЮЧЕНИЕ}{51}{figure.caption.10}%
+\contentsline {section}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{52}{figure.caption.10}%
